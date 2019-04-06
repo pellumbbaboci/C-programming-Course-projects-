@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1480768995 source:c:\users\user\desktop\hello\a game of chance\main.c
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-	<string.h>
-	<ctype.h>
-	<time.h>
-
