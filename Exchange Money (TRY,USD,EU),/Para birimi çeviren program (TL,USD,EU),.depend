@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1481306936 source:c:\users\user\desktop\all projects\para birimi çeviren program (tl,usd,eu),\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<conio.h>
-
